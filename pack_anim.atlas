@@ -1,0 +1,118 @@
+
+pack_anim.png
+size: 2014, 893
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Explosion/Layer 1
+  rotate: true
+  xy: 2, 4
+  size: 84, 82
+  orig: 540, 540
+  offset: 218, 208
+  index: -1
+Explosion/Layer 10
+  rotate: true
+  xy: 397, 98
+  size: 391, 389
+  orig: 540, 540
+  offset: 82, 67
+  index: -1
+Explosion/Layer 11
+  rotate: true
+  xy: 2, 90
+  size: 399, 393
+  orig: 540, 540
+  offset: 78, 65
+  index: -1
+Explosion/Layer 12
+  rotate: true
+  xy: 2, 491
+  size: 400, 396
+  orig: 540, 540
+  offset: 77, 63
+  index: -1
+Explosion/Layer 2
+  rotate: false
+  xy: 1759, 7
+  size: 253, 263
+  orig: 540, 540
+  offset: 154, 126
+  index: -1
+Explosion/Layer 3
+  rotate: true
+  xy: 1492, 300
+  size: 280, 286
+  orig: 540, 540
+  offset: 139, 118
+  index: -1
+Explosion/Layer 4
+  rotate: true
+  xy: 1492, 582
+  size: 309, 316
+  orig: 540, 540
+  offset: 125, 104
+  index: -1
+Explosion/Layer 5
+  rotate: false
+  xy: 1162, 555
+  size: 328, 336
+  orig: 540, 540
+  offset: 114, 95
+  index: -1
+Explosion/Layer 6
+  rotate: false
+  xy: 1150, 167
+  size: 340, 346
+  orig: 540, 540
+  offset: 107, 89
+  index: -1
+Explosion/Layer 7
+  rotate: false
+  xy: 788, 146
+  size: 360, 367
+  orig: 540, 540
+  offset: 98, 77
+  index: -1
+Explosion/Layer 8
+  rotate: true
+  xy: 785, 515
+  size: 376, 375
+  orig: 540, 540
+  offset: 90, 72
+  index: -1
+Explosion/Layer 9
+  rotate: true
+  xy: 400, 504
+  size: 387, 383
+  orig: 540, 540
+  offset: 84, 70
+  index: -1
+pack
+  rotate: false
+  xy: 1810, 619
+  size: 188, 272
+  orig: 265, 308
+  offset: 38, 18
+  index: -1
+pack_lose
+  rotate: false
+  xy: 1492, 2
+  size: 265, 296
+  orig: 265, 308
+  offset: 0, 6
+  index: -1
+pack_win
+  rotate: false
+  xy: 1780, 272
+  size: 229, 308
+  orig: 265, 308
+  offset: 18, 0
+  index: -1
+sol_coin
+  rotate: true
+  xy: 86, 52
+  size: 36, 32
+  orig: 36, 36
+  offset: 0, 2
+  index: -1
